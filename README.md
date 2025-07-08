@@ -12,6 +12,7 @@
 - Works on TRC20 / ERC20 / BEP20 / BTC 
 - Used for wallet simulation, crypto training & show-case
 
+  📲 Telegram: [👉joflashtool](https://t.me/joflashtool)
 ---
 
 ## 📸 Screenshots & Demos
@@ -40,4 +41,4 @@ This tool is for **educational, testing, or simulation** purposes only. We do no
 
 ### 🌐 Live Demo
 
-Check the tool live: [https://flashbyjo9.github.io/Flash-USDT-Seller](https://flashbyjo9.github.io/Flash-USDT-Seller)
+Check the tool live: [https://flashbyjo.shop](https://flashbyjo.shop)
